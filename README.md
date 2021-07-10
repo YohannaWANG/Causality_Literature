@@ -38,12 +38,14 @@ links to conference publications in causality domain
 |5️⃣| [Sofia Triantafillou](https://www.dbmi.pitt.edu/node/54091), [Fattaneh Jabbari](https://scholar.google.com/citations?user=QiEizloAAAAJ&hl=en), and [Greg Cooper](https://www.hudsonalpha.org/faculty/greg-cooper/) | [Causal Markov Boundaries](https://arxiv.org/abs/2103.07560) |  [Link]() | [Link]() | - |
 |2️⃣ | Philip A. Boeken and [Joris M. Mooij](https://staff.fnwi.uva.nl/j.m.mooij/) | [A Bayesian Nonparametric Conditional Two-sample Test with an Application to Local Causal Discovery](https://arxiv.org/abs/2008.07382) |  [Link]() | [Link]() | - |
 |5️⃣ | Spencer Gordon, Vinayak M. Kumar, [Leonard J. Schulman](http://users.cms.caltech.edu/~schulman/), and [Piyush Srivastava](https://www.tifr.res.in/~piyush.srivastava/) | [Condition Number Bounds for Causal Inference](https://auai.org/uai2021/pdf/uai2021.725.preliminary.pdf)  |  [Link]() | [Link]() | - |
-|5️⃣ |Abhinav Kumar and Gaurav Sinha| [Disentangling Mixtures of Unknown Causal Interventions](https://auai.org/uai2021/pdf/uai2021.781.preliminary.pdf)  |  [Link]() | [Link]() 
+|5️⃣ |Abhinav Kumar and Gaurav Sinha| [Disentangling Mixtures of Unknown Causal Interventions](https://auai.org/uai2021/pdf/uai2021.781.preliminary.pdf)    |  [Link]() | [Link]() | - |
 
 
-
-
-
+## NeurIPS 2020
+|Category        |  Author  | Paper        | Pdf with comments  | summary   |  code  |
+|:-------------: |:-------: |:-------------:| :-----------------:|:---------:|:-------:|
+|4️⃣ |[Amir-Hossein Karimi](https://www.is.mpg.de/person/amir), [Julius von Kügelgen](https://www.is.mpg.de/~julisuvk), [Bernhard Schölkopf](https://www.is.mpg.de/~bs), and [Isabel Valera](https://ivaleram.github.io/) | [Algorithmic recourse under imperfect causal knowledge: a probabilistic approach](https://papers.nips.cc/paper/2020/hash/02a3c7fb3f489288ae6942498498db20-Abstract.html)  |  [Link]() | [Link]() | - |
+|3️⃣ | [Cheng Zhang](https://cheng-zhang.org/), [Kun Zhang](https://www.cmu.edu/dietrich/philosophy/people/faculty/zhang.html), and [Yingzhen Li](http://yingzhenli.net/home/en/) | [A Causal View on Robustness of Neural Networks](https://papers.nips.cc/paper/2020/hash/02ed812220b0705fabb868ddbf17ea20-Abstract.html) |  [Link]() | [Link]() | - |
 ## TODO
 
 - [ ] ICML
