@@ -30,6 +30,12 @@ links to conference publications in causality domain
 |Category        |  Author  | Paper        | Pdf with comments  | summary   |  code  |
 |:-------------: |:-------: |:-------------:| :-----------------:|:---------:|-------:|
 |4️⃣ |[Takeshi Teshima](https://takeshi-teshima.github.io/) and [Masashi Sugiyama](http://www.ms.k.u-tokyo.ac.jp/sugi/) | [Incorporating Causal Graphical Prior Knowledge into Predictive Modeling via Simple Data Augmentation](https://arxiv.org/abs/2103.00136) | [Link]() | [Link]() | - |
+|6️⃣| [Takashi Nicholas Maeda](https://sites.google.com/site/tnmaeda/home) and [Shohei Shimizu](https://sites.google.com/site/sshimizu06/)| [Discovery of Causal Additive Models in the Presence of Unobserved Variables](https://arxiv.org/pdf/2106.02234.pdf) |  [Link]() | [Link]() | - |
+|5️⃣|[Eigil Fjeldgren Rischel](https://erischel.com/) and [Sebastian Weichwald](https://sweichwald.de/) | [Compositional Abstraction Error and a Category of Causal Models](https://arxiv.org/abs/2103.15758) | [Link]() | [Link]() | - |
+|2️⃣ |[David Strieder](https://www.groups.ma.tum.de/en/statistics/people/david-strieder/), [Tobias Freidling](http://www.dpmms.cam.ac.uk/person/taf40), stefan Haffner, and [ Mathias Drton](https://www.professoren.tum.de/en/drton-mathias) | [Confidence in Causal Discovery with Linear Causal Models](https://arxiv.org/abs/2106.05694) | [Link]() | [Link]() | - |
+|2️⃣ | [Marcel Wienöbst](https://www.tcs.uni-luebeck.de/de/mitarbeiter/wienoebst/)| [Extendability of Causal Graphical Models: Algorithms and Computational Complexity](https://auai.org/uai2021/pdf/uai2021.480.preliminary.pdf) | [Link]() | [Link]() | - |
+
+
 
 
 ## TODO
