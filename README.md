@@ -11,7 +11,7 @@ links to conference publications in causality domain
 
 ## ICML 2021 
 |Category        |  Author  | Paper        | Pdf with comments  | summary   |  code  |
-|:-------------: |:-------: |:-------------:| :-----------------:|:---------:|-------:|
+|:-------------: |:-------: |:-------------:| :-----------------:|:---------:|:-------:|
 |3️⃣| [Lin, Wangyu](https://wanyu-lin.github.io/), [Hao Lan,  Baochun Li](https://iqua.ece.toronto.edu/index.html)   |[Generative Causal Explanations for Graph Neural Networks](https://arxiv.org/pdf/2104.06643.pdf) | [Link]() | [Link]() | - |
 |2️⃣| [Mastakouri, Atalanti A.](https://www.is.mpg.de/person/amastakouri), [Bernhard Schölkopf](https://ei.is.mpg.de/~bs), and [Dominik Janzing](https://www.is.mpg.de/~janzing) |[Necessary and sufficient conditions for causal feature selection in ime series with latent common causes](https://arxiv.org/pdf/2005.08543.pdf) | [Link]() | [Link]() | - |
 |3️⃣ |[Sumedh Sontakke](https://is.mpg.de/person/ssontakke),  [Arash Mehrjou](https://ei.is.mpg.de/~amehrjou), [Laurent Itti](http://ilab.usc.edu/itti/), and  [Bernhard Schölkopf](https://ei.is.mpg.de/~bs)   | [Causal Curiosity: RL Agents Discovering Self-supervised Experiments for Causal Representation Learning](https://arxiv.org/abs/2010.03110) | [Link]() | [Link]() | - |
@@ -33,7 +33,12 @@ links to conference publications in causality domain
 |6️⃣| [Takashi Nicholas Maeda](https://sites.google.com/site/tnmaeda/home) and [Shohei Shimizu](https://sites.google.com/site/sshimizu06/)| [Discovery of Causal Additive Models in the Presence of Unobserved Variables](https://arxiv.org/pdf/2106.02234.pdf) |  [Link]() | [Link]() | - |
 |5️⃣|[Eigil Fjeldgren Rischel](https://erischel.com/) and [Sebastian Weichwald](https://sweichwald.de/) | [Compositional Abstraction Error and a Category of Causal Models](https://arxiv.org/abs/2103.15758) | [Link]() | [Link]() | - |
 |2️⃣ |[David Strieder](https://www.groups.ma.tum.de/en/statistics/people/david-strieder/), [Tobias Freidling](http://www.dpmms.cam.ac.uk/person/taf40), stefan Haffner, and [ Mathias Drton](https://www.professoren.tum.de/en/drton-mathias) | [Confidence in Causal Discovery with Linear Causal Models](https://arxiv.org/abs/2106.05694) | [Link]() | [Link]() | - |
-|2️⃣ | [Marcel Wienöbst](https://www.tcs.uni-luebeck.de/de/mitarbeiter/wienoebst/), [Max Bannach](https://www.tcs.uni-luebeck.de/de/mitarbeiter/bannach/), [Maciej Liśkiewicz](https://www.tcs.uni-luebeck.de/en/mitarbeiter/liskiewi/)| [Extendability of Causal Graphical Models: Algorithms and Computational Complexity](https://auai.org/uai2021/pdf/uai2021.480.preliminary.pdf) | [Link]() | [Link]() | - |
+|2️⃣| [Marcel Wienöbst](https://www.tcs.uni-luebeck.de/de/mitarbeiter/wienoebst/), [Max Bannach](https://www.tcs.uni-luebeck.de/de/mitarbeiter/bannach/), [Maciej Liśkiewicz](https://www.tcs.uni-luebeck.de/en/mitarbeiter/liskiewi/)| [Extendability of Causal Graphical Models: Algorithms and Computational Complexity](https://auai.org/uai2021/pdf/uai2021.480.preliminary.pdf) | [Link]() | [Link]() | - |
+|5️⃣| [Ludvig Hult](https://katalog.uu.se/profile/?id=N19-473), [Dave Zachariah](https://www.it.uu.se/katalog/davza513)| [Inference of Causal Effects when Control Variables are Unknown](https://arxiv.org/abs/2012.08154)| [Link]() | [Link]() | - |
+|5️⃣| [Sofia Triantafillou](https://www.dbmi.pitt.edu/node/54091), [Fattaneh Jabbari](https://scholar.google.com/citations?user=QiEizloAAAAJ&hl=en), and [Greg Cooper](https://www.hudsonalpha.org/faculty/greg-cooper/) | [Causal Markov Boundaries](https://arxiv.org/abs/2103.07560) |  [Link]() | [Link]() | - |
+|2️⃣ | Philip A. Boeken and [Joris M. Mooij](https://staff.fnwi.uva.nl/j.m.mooij/) | [A Bayesian Nonparametric Conditional Two-sample Test with an Application to Local Causal Discovery](https://arxiv.org/abs/2008.07382) |  [Link]() | [Link]() | - |
+|5️⃣ | Spencer Gordon, Vinayak M. Kumar, [Leonard J. Schulman](http://users.cms.caltech.edu/~schulman/), and [Piyush Srivastava](https://www.tifr.res.in/~piyush.srivastava/) | [Condition Number Bounds for Causal Inference](https://auai.org/uai2021/pdf/uai2021.725.preliminary.pdf)  |  [Link]() | [Link]() | - |
+|5️⃣ |Abhinav Kumar and Gaurav Sinha| [Disentangling Mixtures of Unknown Causal Interventions](https://auai.org/uai2021/pdf/uai2021.781.preliminary.pdf)  |  [Link]() | [Link]() 
 
 
 
