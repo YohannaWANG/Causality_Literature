@@ -11,8 +11,8 @@ links to conference publications in causality domain
 ## ICML 2021 
 |Category        |  Author  | Paper        | Pdf with comments  | summary   |  code  |
 |:-------------: |:-------: |:-------------:| :-----------------:|:---------:|-------:|
-|3️⃣| [Wanyu Lin](https://wanyu-lin.github.io/),[Hao Lan,  Baochun Li](https://iqua.ece.toronto.edu/index.html)   |[Generative Causal Explanations for Graph Neural Networks](https://arxiv.org/pdf/2104.06643.pdf) | [Link]() | [Link]() | - |
-|2️⃣| [Necessary and sufficient conditions for causal feature selection in ime series with latent common causes](https://arxiv.org/pdf/2005.08543.pdf) | [Link]() | [Link]() | - |
+|3️⃣| [Lin, Wangyu](https://wanyu-lin.github.io/),[Hao Lan,  Baochun Li](https://iqua.ece.toronto.edu/index.html)   |[Generative Causal Explanations for Graph Neural Networks](https://arxiv.org/pdf/2104.06643.pdf) | [Link]() | [Link]() | - |
+|2️⃣| [Mastakouri, Atalanti A.](https://www.is.mpg.de/person/amastakouri), [Bernhard Schölkopf](https://ei.is.mpg.de/~bs), and [Dominik Janzing](https://www.is.mpg.de/~janzing) |[Necessary and sufficient conditions for causal feature selection in ime series with latent common causes](https://arxiv.org/pdf/2005.08543.pdf) | [Link]() | [Link]() | - |
 |
 
 ## TODO
