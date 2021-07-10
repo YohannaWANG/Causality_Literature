@@ -23,6 +23,9 @@ links to conference publications in causality domain
 |5️⃣ |[Jason Hartford](https://www.cs.ubc.ca/~jasonhar/), [Victor Veitch](https://stat.uchicago.edu/people/profile/victor-veitch/), and [Dhanya Sridhar](https://dsridhar91.github.io/) | [Valid Causal Inference with (Some) Invalid Instruments](http://proceedings.mlr.press/v139/hartford21a/hartford21a.pdf)  | [Link]() | [Link]() | - |
 |6️⃣ | [Andrew Jesson](https://oatml.cs.ox.ac.uk/members/andrew_jesson/), [Sören Mindermann](https://oatml.cs.ox.ac.uk/members/soren_mindermann/), [Yarin Gal](http://www.cs.ox.ac.uk/people/yarin.gal/website/), and [Uri Shalit](https://web.iem.technion.ac.il/site/academicstaff/uri-shalit/) | [Quantifying Ignorance in Individual-Level Causal-Effect Estimates under Hidden Confounding](https://arxiv.org/abs/2103.04850) | [Link]() | [Link]() | - |
 |2️⃣ |[Michael Oberst](https://www.michaelkoberst.com/), [Nikolaj Thams](https://nikolajthams.github.io/), [Jonas Peters](http://web.math.ku.dk/~peters/), and [David Sontag](https://people.csail.mit.edu/dsontag/) | [Regularizing towards Causal Invariance: Linear Models with Proxies](https://arxiv.org/abs/2103.02477) | [Link]() | [Link]() | - |
+|2️⃣| A LOT | [Proximal Causal Learning with Kernels: Two-Stage Estimation and Moment Restriction](https://arxiv.org/abs/2105.04544)| [Link]() | [Link]() | - |
+|6️⃣|[Elias Chaibub Neto](https://scholar.google.com/citations?user=U-1kDhMAAAAJ&hl=en) | [Causality-aware counterfactual confounding adjustment as an alternative to linear residualization in anticausal prediction tasks based on linear learners]| [Link]() | [Link]() | - |(https://arxiv.org/abs/2011.04605)
+
 
 ## TODO
 
