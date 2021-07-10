@@ -9,7 +9,8 @@ links to conference publications in causality domain
 
 
 ## ICML 2021 
-[Generative Causal Explanations for Graph Neural Networks]() [pdf with comments]() [3️⃣] [summary]()
+[Generative Causal Explanations for Graph Neural Networks]() 
+- [[pdf with comments]]() [3️⃣] [[summary]]()
 
 
 ## TODO
