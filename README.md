@@ -26,6 +26,11 @@ links to conference publications in causality domain
 |2️⃣| A LOT | [Proximal Causal Learning with Kernels: Two-Stage Estimation and Moment Restriction](https://arxiv.org/abs/2105.04544)| [Link]() | [Link]() | - |
 |6️⃣|[Elias Chaibub Neto](https://scholar.google.com/citations?user=U-1kDhMAAAAJ&hl=en) | [Causality-aware counterfactual confounding adjustment as an alternative to linear residualization in anticausal prediction tasks based on linear learners](http://proceedings.mlr.press/v139/neto21a.html)| [Link]() | [Link]() | - |(https://arxiv.org/abs/2011.04605)
 
+## UAI 2021
+|Category        |  Author  | Paper        | Pdf with comments  | summary   |  code  |
+|:-------------: |:-------: |:-------------:| :-----------------:|:---------:|-------:|
+|4️⃣ |[Takeshi Teshima](https://takeshi-teshima.github.io/) and [Masashi Sugiyama](http://www.ms.k.u-tokyo.ac.jp/sugi/) | [Incorporating Causal Graphical Prior Knowledge into Predictive Modeling via Simple Data Augmentation](https://arxiv.org/abs/2103.00136) | [Link]() | [Link]() | - |
+
 
 ## TODO
 
