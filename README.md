@@ -9,6 +9,7 @@ links to conference publications in causality domain
 - 5️⃣ Causal Inference
 - 6️⃣ Confounding
 
+
 ## ICML 2021 
 |Category        |  Author  | Paper        | Pdf with comments  | summary   |  code  |
 |:-------------: |:-------: |:-------------:| :-----------------:|:---------:|:-------:|
@@ -78,12 +79,7 @@ links to conference publications in causality domain
 |4️⃣ |  [Chandler Squires](https://chandlersquires.com/), [Sara Magliacane](https://smaglia.wordpress.com/), [Kristjan Greenewald](https://kgreenewald.github.io/), Dmitriy Katz, [Murat Kocaoglu](https://mitibmwatsonailab.mit.edu/people/murat-kocaoglu/), [Karthikeyan Shanmugam](https://sites.google.com/a/utexas.edu/karthiksh/) | [Active Structure Learning of Causal DAGs via Directed Clique Trees ](https://arxiv.org/abs/2011.00641)  |  [Link]() |  [Link]() |  [Python](https://github.com/csquires/dct-policy) |
 |5️⃣ | [Philippe Brouillard](https://scholar.google.com/citations?user=qm9aIqUAAAAJ&hl=en), [Sébastien Lachapelle](https://slachapelle.github.io/), [Alexandre Lacoste](https://scholar.google.com/citations?user=71a2-WMAAAAJ&hl=en), [Simon Lacoste-Julien](http://www.iro.umontreal.ca/~slacoste/), and [Alexandre Drouin](https://www.alexdrouin.com/) | [Differentiable Causal Discovery from Interventional Data](https://arxiv.org/abs/2007.01754)  | [Link]() | [Link]() | [Python](https://github.com/slachapelle/dcdi) |
 
-- 1️⃣ Survey Paper
-- 2️⃣ Foundamental Causality
-- 3️⃣ Causality in Machine Learning
-- 4️⃣ Causal Interpretability
-- 5️⃣ Causal Inference
-- 6️⃣ Confounding
+
 ## AISTATS 2021
 |Category        |  Author  | Paper        | Pdf with comments  | summary   |  code  |
 |:-------------: |:-------: |:-------------:| :-----------------:|:---------:|:-------:|
@@ -92,6 +88,13 @@ links to conference publications in causality domain
 |5️⃣ |  Akira Tanimoto, Tomoya Sakai, Takashi Takenouchi, Hisashi Kashima | [Regret Minimization for Causal Inference on Large Treatment Space](https://arxiv.org/abs/2006.05616) | [Link]() | [Link]() | - |
 |2️⃣ | Shunsuke Horii |  [Bayesian Model Averaging for Causality Estimation and its Approximation based on Gaussian Scale Mixture Distributions](https://arxiv.org/abs/2103.08195) | [Link]() | [Link]() | - |
 |5️⃣  | Chi Zhang, Carlos Cinelli, Bryant Chen, Judea Pearl | [Exploiting Equality Constraints in Causal Inference](http://proceedings.mlr.press/v130/zhang21c.html)  | [Link]() | [Link]() | - |
+|3️⃣| Vineet Nair, Vishakha Patil, Gaurav Sinha | [Budgeted and Non-budgeted Causal Bandits](https://arxiv.org/abs/2012.07058) | [Link]() | [Link]() | - |
+|6️⃣ | Rohit Bhattacharya, Tushar Nagarajan, Daniel Malinsky, Ilya Shpitser | [Differentiable Causal Discovery Under Unmeasured Confounding](https://arxiv.org/abs/2010.06978) | [Link]() | [Link]() | - |
+|5️⃣ | Kyra Gan, Andrew Li, Zachary Lipton, Sridhar Tayur | [Causal Inference with Selectively Deconfounded Data](https://arxiv.org/abs/2002.11096) | [Link]() | [Link]() | - |
+|5️⃣| Thanh Vinh Vo, Pengfei Wei, Wicher Bergsma, Tze Yun Leong | [Causal Modeling with Stochastic Confounders](https://arxiv.org/abs/2004.11497) | [Link]() | [Link]() | - |
+|3️⃣  | Ilyes Khemakhem, Ricardo Monti, Robert Leech, Aapo Hyvarinen | [Causal Autoregressive Flows](https://arxiv.org/abs/2011.02268) | [Link]() | [Link]() | - |
+|5️⃣ | Yunpu Ma, Volker Tresp | [Causal Inference under Networked Interference and Intervention Policy Enhancement](https://arxiv.org/abs/2002.08506)  | [Link]() | [Link]() | - |
+
 
 
 
@@ -101,4 +104,4 @@ links to conference publications in causality domain
 - [ ] UAI
 - [ ] NeurIPS
 - [x] AISTATS
-
+- Notes: New trend in differentiable causal discovery 
