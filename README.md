@@ -61,6 +61,7 @@ links to conference publications in causality domain
 |4️⃣ |  Junsouk Choi, [Robert Chapkin](https://chapkinlab.tamu.edu/chapkin-biography/), [Yang Ni](https://web.stat.tamu.edu/~yni/) | [Bayesian Causal Structural Learning with Zero-Inflated Poisson Bayesian Networks](https://proceedings.neurips.cc/paper/2020/hash/4175a4b46a45813fccf4bd34c779d817-Abstract.html) |   [Link]() | [Link]() | [R](https://github.com/junsoukchoi/zipbn) |
 |5️⃣ | [Virginia Aglietti](https://warwick.ac.uk/fac/sci/statistics/staff/research_students/aglietti/), [Theodoros Damoulas](https://www.turing.ac.uk/people/researchers/theo-damoulas), [Mauricio Álvarez](https://maalvarezl.github.io/), and [Javier González](https://javiergonzalezh.github.io/) | [Multi-task Causal Learning with Gaussian Processes](https://arxiv.org/abs/2009.12821) |   [Link]() | [Link]() | [Python](https://github.com/VirgiAgl/DAG-GP) |
 |4️⃣ | [Jussi Viinikka](https://jussiviinikka.github.io/), [Antti Hyttinen](https://www.cs.helsinki.fi/u/ajhyttin/), [Johan Pensar](https://www.mn.uio.no/math/english/people/aca/johanpen/), and [Mikko Koivisto](https://www.cs.helsinki.fi/u/mkhkoivi/) | [Towards Scalable Bayesian Learning of Causal DAGs ](https://arxiv.org/abs/2010.00684)  |   [Link]() | [Link]() | - |
+|5️⃣  | [Aahlad Puli](https://aahladmanas.github.io/), [Rajesh Ranganath](https://cims.nyu.edu/~rajeshr/) | [General Control Functions for Causal Effect Estimation from IVs](https://arxiv.org/abs/1907.03451)  |   [Link]() | [Link]() | [Python](https://github.com/rajesh-lab/gcfn-code) |
 
 
 ## TODO
