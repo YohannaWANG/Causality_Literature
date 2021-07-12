@@ -91,6 +91,7 @@ links to conference publications in causality domain
 |3️⃣ | Rémi Le Priol, Reza Babanezhad, Yoshua Bengio, Simon Lacoste-Julien |  [An Analysis of the Adaptation Speed of Causal Models](https://arxiv.org/abs/2005.09136) | [Link]() | [Link]() | [Python](https://github.com/remilepriol/causal-adaptation-speed) |
 |5️⃣ |  Akira Tanimoto, Tomoya Sakai, Takashi Takenouchi, Hisashi Kashima | [Regret Minimization for Causal Inference on Large Treatment Space](https://arxiv.org/abs/2006.05616) | [Link]() | [Link]() | - |
 |2️⃣ | Shunsuke Horii |  [Bayesian Model Averaging for Causality Estimation and its Approximation based on Gaussian Scale Mixture Distributions](https://arxiv.org/abs/2103.08195) | [Link]() | [Link]() | - |
+|5️⃣  | Chi Zhang, Carlos Cinelli, Bryant Chen, Judea Pearl | [Exploiting Equality Constraints in Causal Inference](http://proceedings.mlr.press/v130/zhang21c.html)  | [Link]() | [Link]() | - |
 
 
 
