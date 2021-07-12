@@ -28,7 +28,7 @@ links to conference publications in causality domain
 
 ## UAI 2021
 |Category        |  Author  | Paper        | Pdf with comments  | summary   |  code  |
-|:-------------: |:-------: |:-------------:| :-----------------:|:---------:|-------:|
+|:-------------: |:-------: |:-------------:| :-----------------:|:---------:|:-------:|
 |4️⃣ |[Takeshi Teshima](https://takeshi-teshima.github.io/) and [Masashi Sugiyama](http://www.ms.k.u-tokyo.ac.jp/sugi/) | [Incorporating Causal Graphical Prior Knowledge into Predictive Modeling via Simple Data Augmentation](https://arxiv.org/abs/2103.00136) | [Link]() | [Link]() | - |
 |6️⃣| [Takashi Nicholas Maeda](https://sites.google.com/site/tnmaeda/home) and [Shohei Shimizu](https://sites.google.com/site/sshimizu06/)| [Discovery of Causal Additive Models in the Presence of Unobserved Variables](https://arxiv.org/pdf/2106.02234.pdf) |  [Link]() | [Link]() | - |
 |5️⃣|[Eigil Fjeldgren Rischel](https://erischel.com/) and [Sebastian Weichwald](https://sweichwald.de/) | [Compositional Abstraction Error and a Category of Causal Models](https://arxiv.org/abs/2103.15758) | [Link]() | [Link]() | - |
@@ -77,6 +77,17 @@ links to conference publications in causality domain
 |5️⃣ | [Murat Kocaoglu](https://mitibmwatsonailab.mit.edu/people/murat-kocaoglu/), [Sanjay Shakkottai](https://sites.google.com/view/sanjay-shakkottai/), [Alexandros G. Dimakis](https://users.ece.utexas.edu/~dimakis/), [Constantine Caramanis](https://caramanis.github.io/), and [Sriram Vishwanath](http://sriram.utlinc.org/#/) | [Applications of Common Entropy for Causal Inference](https://arxiv.org/pdf/1807.10399.pdf)  |  [Link]() |  [Link]() |  - |
 |4️⃣ |  [Chandler Squires](https://chandlersquires.com/), [Sara Magliacane](https://smaglia.wordpress.com/), [Kristjan Greenewald](https://kgreenewald.github.io/), Dmitriy Katz, [Murat Kocaoglu](https://mitibmwatsonailab.mit.edu/people/murat-kocaoglu/), [Karthikeyan Shanmugam](https://sites.google.com/a/utexas.edu/karthiksh/) | [Active Structure Learning of Causal DAGs via Directed Clique Trees ](https://arxiv.org/abs/2011.00641)  |  [Link]() |  [Link]() |  [Python](https://github.com/csquires/dct-policy) |
 |5️⃣ | [Philippe Brouillard](https://scholar.google.com/citations?user=qm9aIqUAAAAJ&hl=en), [Sébastien Lachapelle](https://slachapelle.github.io/), [Alexandre Lacoste](https://scholar.google.com/citations?user=71a2-WMAAAAJ&hl=en), [Simon Lacoste-Julien](http://www.iro.umontreal.ca/~slacoste/), and [Alexandre Drouin](https://www.alexdrouin.com/) | [Differentiable Causal Discovery from Interventional Data](https://arxiv.org/abs/2007.01754)  | [Link]() | [Link]() | [Python](https://github.com/slachapelle/dcdi) |
+
+- 1️⃣ Survey Paper
+- 2️⃣ Foundamental Causality
+- 3️⃣ Causality in Machine Learning
+- 4️⃣ Causal Interpretability
+- 5️⃣ Causal Inference
+- 6️⃣ Confounding
+## AISTATS 2021
+|Category        |  Author  | Paper        | Pdf with comments  | summary   |  code  |
+|:-------------: |:-------: |:-------------:| :-----------------:|:---------:|:-------:|
+|3️⃣ | Yoichi Chikahara, Shinsaku Sakaue, Akinori Fujino, Hisashi Kashima | [Learning Individually Fair Classifier with Path-Specific Causal-Effect Constraint] | [Link]() | [Link]() | - |
 
 ## TODO
 
