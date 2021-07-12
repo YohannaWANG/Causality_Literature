@@ -65,6 +65,7 @@ links to conference publications in causality domain
 |3️⃣ |[Tianlin Xu](https://github.com/tianlinxu312), [Li Kevin Wenliang](https://kevin-w-li.github.io/), Michael Munn, and [Beatrice Acciaio](https://people.math.ethz.ch/~beacciaio/home) | [COT-GAN: Generating Sequential Data via Causal Optimal Transport](https://arxiv.org/abs/2006.08571) |   [Link]() | [Link]() | [Python](https://github.com/tianlinxu312/cot-gan) |
 |3️⃣ | [Yunzhu Li](https://people.csail.mit.edu/liyunzhu/), [Antonio Torralba](https://groups.csail.mit.edu/vision/torralbalab/), [Anima Anandkumar](http://tensorlab.cms.caltech.edu/users/anima/), [Dieter Fox](https://homes.cs.washington.edu/~fox/), and [Animesh Garg](https://animesh.garg.tech/) | [Causal Discovery in Physical Systems from Videos ](https://arxiv.org/abs/2007.00631) | [Link]() | [Link]() | [Python](https://github.com/pairlab/v-cdn) |
 |5️⃣ | [Amin Jaber](https://www.cs.purdue.edu/people/graduate-students/jaber0.html), [Murat Kocaoglu](https://www.muratkocaoglu.com/), [Karthikeyan Shanmugam](https://sites.google.com/a/utexas.edu/karthiksh/), and [Elias Bareinboim](https://causalai.net/) | [Causal Discovery from Soft Interventions with Unknown Targets: Characterization and Learning](https://causalai.net/r67.pdf) | [Link]() | [Link]() | - |
+|4️⃣ |Ming Gao, [Yi Ding](https://y-ding.github.io/), [Bryon Aragam](https://www.bryonaragam.com/) | [A polynomial-time algorithm for learning nonparametric causal graphs](https://arxiv.org/abs/2006.11970) | [Link]() |  [Link]() | [R](https://github.com/MingGao97/NPVAR) |
 
 ## TODO
 
