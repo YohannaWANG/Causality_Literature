@@ -87,7 +87,10 @@ links to conference publications in causality domain
 ## AISTATS 2021
 |Category        |  Author  | Paper        | Pdf with comments  | summary   |  code  |
 |:-------------: |:-------: |:-------------:| :-----------------:|:---------:|:-------:|
-|3️⃣ | Yoichi Chikahara, Shinsaku Sakaue, Akinori Fujino, Hisashi Kashima | [Learning Individually Fair Classifier with Path-Specific Causal-Effect Constraint] | [Link]() | [Link]() | - |
+|5️⃣ | Yoichi Chikahara, Shinsaku Sakaue, Akinori Fujino, Hisashi Kashima | [Learning Individually Fair Classifier with Path-Specific Causal-Effect Constraint](https://arxiv.org/abs/2002.06746) | [Link]() | [Link]() | - |
+|3️⃣ | Rémi Le Priol, Reza Babanezhad, Yoshua Bengio, Simon Lacoste-Julien |  [An Analysis of the Adaptation Speed of Causal Models](https://arxiv.org/abs/2005.09136) | [Link]() | [Link]() | [Python](https://github.com/remilepriol/causal-adaptation-speed) |
+|5️⃣ |  Akira Tanimoto, Tomoya Sakai, Takashi Takenouchi, Hisashi Kashima | 
+
 
 ## TODO
 
