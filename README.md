@@ -63,7 +63,7 @@ links to conference publications in causality domain
 |4️⃣ | [Jussi Viinikka](https://jussiviinikka.github.io/), [Antti Hyttinen](https://www.cs.helsinki.fi/u/ajhyttin/), [Johan Pensar](https://www.mn.uio.no/math/english/people/aca/johanpen/), and [Mikko Koivisto](https://www.cs.helsinki.fi/u/mkhkoivi/) | [Towards Scalable Bayesian Learning of Causal DAGs ](https://arxiv.org/abs/2010.00684)  |   [Link]() | [Link]() | - |
 |5️⃣  | [Aahlad Puli](https://aahladmanas.github.io/), [Rajesh Ranganath](https://cims.nyu.edu/~rajeshr/) | [General Control Functions for Causal Effect Estimation from IVs](https://arxiv.org/abs/1907.03451)  |   [Link]() | [Link]() | [Python](https://github.com/rajesh-lab/gcfn-code) |
 |3️⃣ |[Tianlin Xu](https://github.com/tianlinxu312), [Li Kevin Wenliang](https://kevin-w-li.github.io/), Michael Munn, and [Beatrice Acciaio](https://people.math.ethz.ch/~beacciaio/home) | [COT-GAN: Generating Sequential Data via Causal Optimal Transport](https://arxiv.org/abs/2006.08571) |   [Link]() | [Link]() | [Python](https://github.com/tianlinxu312/cot-gan) |
-
+|3️⃣ | [Yunzhu Li](https://people.csail.mit.edu/liyunzhu/), [Antonio Torralba](https://groups.csail.mit.edu/vision/torralbalab/), [Anima Anandkumar](http://tensorlab.cms.caltech.edu/users/anima/), [Dieter Fox](https://homes.cs.washington.edu/~fox/), and [Animesh Garg](https://animesh.garg.tech/) | [Causal Discovery in Physical Systems from Videos ](https://arxiv.org/abs/2007.00631) | [Link]() | [Link]() | [Python](https://github.com/pairlab/v-cdn) |
 
 ## TODO
 
