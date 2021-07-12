@@ -67,6 +67,7 @@ links to conference publications in causality domain
 |5️⃣ | [Amin Jaber](https://www.cs.purdue.edu/people/graduate-students/jaber0.html), [Murat Kocaoglu](https://www.muratkocaoglu.com/), [Karthikeyan Shanmugam](https://sites.google.com/a/utexas.edu/karthiksh/), and [Elias Bareinboim](https://causalai.net/) | [Causal Discovery from Soft Interventions with Unknown Targets: Characterization and Learning](https://causalai.net/r67.pdf) | [Link]() | [Link]() | - |
 |4️⃣ |Ming Gao, [Yi Ding](https://y-ding.github.io/), [Bryon Aragam](https://www.bryonaragam.com/) | [A polynomial-time algorithm for learning nonparametric causal graphs](https://arxiv.org/abs/2006.11970) | [Link]() |  [Link]() | [R](https://github.com/MingGao97/NPVAR) |
 |5️⃣ |[ Andrew Jesson](https://oatml.cs.ox.ac.uk/members/andrew_jesson/), [Sören Mindermann](https://oatml.cs.ox.ac.uk/members/soren_mindermann/), [Uri Shalit](https://shalit.net.technion.ac.il/people/), [Yarin Gal](http://www.cs.ox.ac.uk/people/yarin.gal/website/) | [Identifying Causal-Effect Inference Failure with Uncertainty-Aware Models ](https://arxiv.org/abs/2007.00163)  | [Link]() |  [Link]() | [Python](https://github.com/OATML/ucate) |
+|6️⃣ | [Junzhe Zhang](https://www.cs.columbia.edu/~junzhez/), [Daniel Kumor](https://dkumor.com/?_ga=2.213890199.2038338709.1626082483-1466817548.1625900054), and [Elias Bareinboim](https://causalai.net/) | [Causal Imitation Learning With Unobserved Confounders](https://www.causalai.net/r66.pdf)  | [Link]() |  [Link]() | - |
 
 ## TODO
 
