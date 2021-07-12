@@ -89,7 +89,9 @@ links to conference publications in causality domain
 |:-------------: |:-------: |:-------------:| :-----------------:|:---------:|:-------:|
 |5️⃣ | Yoichi Chikahara, Shinsaku Sakaue, Akinori Fujino, Hisashi Kashima | [Learning Individually Fair Classifier with Path-Specific Causal-Effect Constraint](https://arxiv.org/abs/2002.06746) | [Link]() | [Link]() | - |
 |3️⃣ | Rémi Le Priol, Reza Babanezhad, Yoshua Bengio, Simon Lacoste-Julien |  [An Analysis of the Adaptation Speed of Causal Models](https://arxiv.org/abs/2005.09136) | [Link]() | [Link]() | [Python](https://github.com/remilepriol/causal-adaptation-speed) |
-|5️⃣ |  Akira Tanimoto, Tomoya Sakai, Takashi Takenouchi, Hisashi Kashima | 
+|5️⃣ |  Akira Tanimoto, Tomoya Sakai, Takashi Takenouchi, Hisashi Kashima | [Regret Minimization for Causal Inference on Large Treatment Space](https://arxiv.org/abs/2006.05616) | [Link]() | [Link]() | - |
+|2️⃣ | Shunsuke Horii |  [Bayesian Model Averaging for Causality Estimation and its Approximation based on Gaussian Scale Mixture Distributions](https://arxiv.org/abs/2103.08195) | [Link]() | [Link]() | - |
+
 
 
 ## TODO
