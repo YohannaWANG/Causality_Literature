@@ -54,7 +54,7 @@ links to conference publications in causality domain
 |4️⃣ |[Trent Kyono](https://trentkyono.github.io/), [Yao Zhang](https://scholar.google.co.uk/citations?user=B3Xd8-kAAAAJ&hl=en), and [Mihaela van der Schaar](https://www.vanderschaar-lab.com/) | [CASTLE: Regularization via Auxiliary Causal Graph Discovery](https://arxiv.org/pdf/2009.13180.pdf) | [Link]() | [Link]() | [Python](https://github.com/vanderschaarlab/mlforhealthlabpub) |
 |5️⃣ |  [Kaihua Tang](https://kaihuatang.github.io/), [Jianqiang Huang](https://scholar.google.com.hk/citations?user=UqAybqgAAAAJ&hl=en), and [Hanwang Zhang](https://personal.ntu.edu.sg/hanwangzhang/) |  [Long-Tailed Classification by Keeping the Good and Removing the Bad Momentum Causal Effect](https://arxiv.org/abs/2009.12991)| [Link]() | [Link]() | [Python](https://github.com/KaihuaTang/Long-Tailed-Recognition.pytorch) |
 |4️⃣ |[Atalanti Mastakouri](https://ei.is.tuebingen.mpg.de/person/amastakouri), [Bernhard Schölkopf](https://www.is.mpg.de/~bs) | [Causal analysis of Covid-19 Spread in Germany ](https://arxiv.org/abs/2007.11896) | [Link]() | [Link]() | - |
-|5️⃣| Tom Heskes, Evi Sijben, Ioan Gabriel Bucur, Tom Claassen | [Causal Shapley Values: Exploiting Causal Knowledge to Explain Individual Predictions of Complex Models](https://arxiv.org/abs/2011.01625)| [Link]() | [Link]() | - |
+|5️⃣| [Tom Heskes](https://www.cs.ru.nl/~tomh/), [Evi Sijben](https://www.cwi.nl/people/evi-sijben), [Ioan Gabriel Bucur](http://www.cs.ru.nl/~gbucur/), and [Tom Claassen](http://www.cs.ru.nl/~tomc/) | [Causal Shapley Values: Exploiting Causal Knowledge to Explain Individual Predictions of Complex Models](https://arxiv.org/abs/2011.01625)| [Link]() | [Link]() | - |
 
 
 
