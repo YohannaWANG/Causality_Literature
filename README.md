@@ -48,14 +48,14 @@ links to conference publications in causality domain
 |3️⃣ | [Cheng Zhang](https://cheng-zhang.org/), [Kun Zhang](https://www.cmu.edu/dietrich/philosophy/people/faculty/zhang.html), and [Yingzhen Li](http://yingzhenli.net/home/en/) | [A Causal View on Robustness of Neural Networks](https://papers.nips.cc/paper/2020/hash/02ed812220b0705fabb868ddbf17ea20-Abstract.html) |  [Link]() | [Link]() | - |
 |5️⃣ |[Dong Zhang](https://imag-njust.net/dong-zhang/), [Hanwang Zhang](https://personal.ntu.edu.sg/hanwangzhang/), [Jinhui Tang](https://imag-njust.net/),  [Xiansheng Hua](https://scholar.google.com/citations?user=6G-l4o0AAAAJ&hl=en), and [Qianru Sun](https://qianrusun.com/) | [Causal Intervention for Weakly-Supervised Semantic Segmentation](https://arxiv.org/abs/2009.12547) |  [Link]() | [Link]() | [Python](https://github.com/dongzhang89/CONTA) |
 |5️⃣ | [Nick Pawlowski](http://nickpawlowski.de/), [Daniel C. Castro](https://www.imperial.ac.uk/people/d.coelho-de-castro15), and [Ben Glocker](https://www.imperial.ac.uk/people/b.glocker)| [Deep Structural Causal Models for Tractable Counterfactual Inference](https://arxiv.org/abs/2006.06485) |  [Link]() | [Link]() | [Python](https://github.com/biomedia-mira/deepscm) |
-|4️⃣ |[Christopher Frye](https://scholar.google.com/citations?user=pT9e6bsAAAAJ&hl=en), [Colin Rowat](https://www.birmingham.ac.uk/staff/profiles/business/rowat-colin.aspx), AND [Ilya Feige](https://faculty.ai/staff/ilya-feige/) | [Asymmetric Shapley values: incorporating causal knowledge into model-agnostic explainability](https://arxiv.org/abs/1910.06358) |  [Link]() | [Link]() | [R](https://github.com/nredell/shapFlex) |
-
+|4️⃣ |[Christopher Frye](https://scholar.google.com/citations?user=pT9e6bsAAAAJ&hl=en), [Colin Rowat](https://www.birmingham.ac.uk/staff/profiles/business/rowat-colin.aspx), and [Ilya Feige](https://faculty.ai/staff/ilya-feige/) | [Asymmetric Shapley values: incorporating causal knowledge into model-agnostic explainability](https://arxiv.org/abs/1910.06358) |  [Link]() | [Link]() | [R](https://github.com/nredell/shapFlex) |
+|5️⃣ | [Samuel Håkansson](https://samuelhakansson.com/), Viktor Lindblom, [Omer Gottesman](https://scholar.google.com.sg/citations?user=glNJx5zYUbsC&hl=th), and [Fredrik D. Johansson](https://www.chalmers.se/en/staff/Pages/frejohk.aspx)| [Learning to search efficiently for causally near-optimal treatments](https://arxiv.org/abs/2007.00973) |  [Link]() | [Link]() | [Python](https://github.com/Healthy-AI/TreatmentExploration) |
 
 
 ## TODO
 
 - [ ] ICML
-- [x] UAI
+- [ ] UAI
 - [x] NeurIPS
 - [x] AISTATS
 
