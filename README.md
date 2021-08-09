@@ -8,6 +8,13 @@ links to conference publications in causality domain
 - 4️⃣ Causal Interpretability
 - 5️⃣ Causal Inference
 - 6️⃣ Confounding
+- 7️⃣ Privacy
+
+## Privacy
+## Uncategorized
+|Category        |  Author  | Paper        | Pdf with comments  | summary   |  code  |
+|:-------------: |:-------: |:-------------:| :-----------------:|:---------:|:-------:|
+|  |[Si Kai Lee](https://mkolar.coffeejunkies.org/authors/si-kai-lee/), [Luigi Gresele](https://ei.is.mpg.de/person/lgresele), [Mijung Park](https://privacy-preserving-machine-learning.github.io/), [Krikamol Muandet](http://www.krikamol.org/) | [Privacy-Preserving Causal Inference via Inverse Probability Weighting](https://arxiv.org/abs/1905.12592) | [Link] | - | 
 
 ## Uncategorized
 |Category        |  Author  | Paper        | Pdf with comments  | summary   |  code  |
